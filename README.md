@@ -3,10 +3,10 @@
 ## Compiler
   gcc / VS2017
 
-##Function
+## Function
 
-###entomo
+### entomo
   Convert English to Morse code
   
-###motoen
+### motoen
   Convert Morse code to English
