@@ -1,8 +1,8 @@
-Morse-Code-Translator
-=====================
+# Morse-Code-Translator
 
 ## Compiler
-  gcc / VS2017
+  gcc  
+  VS2017
 
 ## Function
 
