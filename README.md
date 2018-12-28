@@ -1,4 +1,4 @@
-# Morse-Code-Translator
+# Morse-Code-Translater
 
 ## Compiler
   gcc  
